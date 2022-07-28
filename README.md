@@ -68,7 +68,7 @@ I also have several certifications:
 
 - passed game [learngitbranching.js.org](https://learngitbranching.js.org/)
 
-> A very useful simulator for understanding the basics of Git. A very useful simulator for understanding the basics of Git. Made you think for quite a long time on some of the tasks. I liked it very much.
+> A very useful simulator for understanding the basics of Git. Made you think for quite a long time on some of the tasks. I liked it very much.
 
 - Introduction Sequence
 <details>
