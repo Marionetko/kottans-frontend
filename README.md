@@ -54,13 +54,15 @@ I also have several certifications:
 
 > All the material is well and simply presented. Even a person who does not understand anything about it can understand it.
 
-- Week 1
+Week 1
+
 <details>
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_3.jpg">
 </details>
 
-- Week 2
+Week 2
+
 <details>
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_4.jpg">
@@ -70,12 +72,13 @@ I also have several certifications:
 
 > A very useful simulator for understanding the basics of Git. Made you think for quite a long time on some of the tasks. I liked it very much.
 
-- Introduction Sequence
+Introduction Sequence
+
 <details>
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_1.jpg">
 </details>
-- Push & Pull -- remote repositories in Git!
+Push & Pull -- remote repositories in Git!
 <details>
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_2.jpg">
