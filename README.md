@@ -4,7 +4,7 @@
 
 Hello! My name is Anton. I'm 32 years old and I'm learning how to become a frontend developer.
 
-This repository is created for study with Kottans. I will mark here my successes and tell about the progress of the training.
+This repository is created for study [kottans-frontend](https://github.com/kottans/frontend/blob/2022_UA/README.md). Here I will mark my progress and report on the progress of my training.
 
 On this moment i have next skills:
 
