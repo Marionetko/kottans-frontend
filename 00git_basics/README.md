@@ -26,13 +26,13 @@
 
 1.  Опишіть свої враження від вивченого матеріалу.
 
-1.  Надішліть pull-request сюди [Kottans/mock-repo][mock-repo] пропонуючи зміни.
+1.  Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
 
     **Як зробити pull-request**
 
-    - Форкніть цей репозиторій [Kottans/mock-repo][mock-repo]
+    - Форкніть цей репозиторій [Kottans/mock-repo](https://github.com/Kottans/mock-repo)
     - Клонуйте свій форк локально на свій комп'ютер: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
-    - Додайте цей репозиторій [Kottans/mock-repo][mock-repo] як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
+    - Додайте цей репозиторій [Kottans/mock-repo](https://github.com/Kottans/mock-repo) як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
     - `git checkout master` і потім створіть нову гілку, ім'я на ваш роздум (aka feature branch): `git checkout -b BRANCH_NAME`.
     - Внесіть деякі зміни до свого локального сховища. Це може бути що завгодно, насправді. Якщо ви знайшли помилку в README - чудово!
       Подбайте про те, щоб дати своєму PR значуще (осмислене) ім’я та опис.
@@ -42,7 +42,7 @@
     - Об’єднайте головну гілку зі своєю гілкою: `git checkout BRANCH_NAME && git merge master`
     - Вирішіть будь-які конфлікти мержу, якщо такі є (Resolve merge conflicts)
     - Надішліть гілку до вашого віддаленого сховища: `git push --set-upstream origin BRANCH_NAME`
-    - Зробіть pull-request з вашого репозиторію до [цього][mock-repo] репозиторію через GitHub web-interface
+    - Зробіть pull-request з вашого репозиторію до [цього](https://github.com/Kottans/mock-repo) репозиторію через GitHub web-interface
     - Якщо вас попросять виправити merge конфлікт, зверніться до додаткових матеріалів для отримання відповідної інформації
 
     **Зауважте, що ваш PR можуть не розглянути швидко.**
