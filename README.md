@@ -9,7 +9,7 @@ This repository is created for study with Kottans. I will mark here my successes
 On this moment i have next skills:
 
 - HTML5, CSS3, SCSS, SASS, LESS, BEM, Flex-box, Grid, Bootstrap, Responsive layout, Git
-- Figma, Adobe Photoshop, Avocode,
+- Figma, Adobe Photoshop, Avocode, Adobe XD
 - English - Upper-Intermediate
 
 I also have several certifications:
