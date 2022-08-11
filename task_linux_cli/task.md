@@ -14,7 +14,7 @@
    Клацніть правою кнопкою миші в будь-якому місці провідника та виберіть
    параметр `Git Bash here`.
 
-   ![windows-git-bash](../img/windows-git-bash.png)
+   ![windows-git-bash](https://github.com/kottans/frontend/blob/2022_UA/img/windows-git-bash.png)
 
 1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
