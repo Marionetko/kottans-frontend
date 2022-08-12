@@ -117,10 +117,10 @@ My results:
 </details>
 
 - Read articles:
-    1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+    - [HTTP: The Protocol Every Web Developer Must Know — Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
-    1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+    - [HTTP: The Protocol Every Web Developer Must Know — Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
-> The information given in the articles is quite confusing, I think this is solely due to the translation. The original articles are well written and the information is presented much better than in the translated version, which makes it easier to understand. For me personally, these articles didn't bring anything new to the reader, but they helped me remember some HTTP peculiarities and querying methods.
+> The information given in the articles is quite confusing, I think this is solely due to the translation. The original articles are well written and the information is presented much better than in the translated version, which makes it easier to understand. For me personally, these articles didn't bring anything new to me, but they helped me remember some HTTP peculiarities and querying methods.
 
 ---
