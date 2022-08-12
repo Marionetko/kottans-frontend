@@ -31,7 +31,7 @@ I also have several certifications:
 # The Stage 0 course program
 
 - [x] **Git Basics**
-- [ ] **Linux CLI and Networking**
+- [x] **Linux CLI and Networking**
 - [ ] **VCS (hello gitty), GitHub and Collaboration**
 - [ ] **Intro to HTML & CSS**
 - [ ] **Responsive Web Design**
