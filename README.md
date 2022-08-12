@@ -78,10 +78,49 @@ Introduction Sequence
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_1.jpg">
 </details>
+
 Push & Pull -- remote repositories in Git!
+
 <details>
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_2.jpg">
 </details>
+
+---
+
+# Linux CLI, and HTTP
+
+- Take a course [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
+
+> I really liked this course. Simple and accessible presentation of information. I finally learned how to work with Linux without the graphical shell!
+
+My results:
+
+<details>
+    <summary>Quiz #1 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_linux_cli/quiz_01.jpg">
+</details>
+
+<details>
+    <summary>Quiz #2 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_linux_cli/quiz_02.jpg">
+</details>
+
+<details>
+    <summary>Quiz #3 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_linux_cli/quiz_03.jpg">
+</details>
+
+<details>
+    <summary>Quiz #4 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_linux_cli/quiz_03.jpg">
+</details>
+
+- Read articles:
+    1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+    1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+> The information given in the articles is quite confusing, I think this is solely due to the translation. The original articles are well written and the information is presented much better than in the translated version, which makes it easier to understand. For me personally, these articles didn't bring anything new to the reader, but they helped me remember some HTTP peculiarities and querying methods.
 
 ---
