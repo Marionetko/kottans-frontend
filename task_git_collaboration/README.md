@@ -18,16 +18,15 @@ My results:
 
 2. Complete the following levels [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
     - Main: Moving Work Around
-
-<details>
-    <summary>Result</summary>
-    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/Screenshot_1.jpg">
-</details>
-
     - Remote: To Origin And Beyond -- Advanced Git Remotes!
 
 <details>
-    <summary>Result</summary>
+    <summary>Result #1</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/Screenshot_1.jpg">
+</details>   
+
+<details>
+    <summary>Result #2</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/Screenshot_2.jpg">
 </details>
 
