@@ -32,7 +32,7 @@ I also have several certifications:
 
 - [x] **Git Basics**
 - [x] **Linux CLI and Networking**
-- [ ] **VCS (hello gitty), GitHub and Collaboration**
+- [x] **VCS (hello gitty), GitHub and Collaboration**
 - [ ] **Intro to HTML & CSS**
 - [ ] **Responsive Web Design**
 - [ ] **HTML & CSS Practice**
@@ -122,5 +122,43 @@ My results:
     - [HTTP: The Protocol Every Web Developer Must Know — Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 > The information given in the articles is quite confusing, I think this is solely due to the translation. The original articles are well written and the information is presented much better than in the translated version, which makes it easier to understand. For me personally, these articles didn't bring anything new to me, but they helped me remember some HTTP peculiarities and querying methods.
+
+---
+
+# Git Collaboration
+
+1. Listen to the 3 and 4 week of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+
+My results:
+
+<details>
+    <summary>Week #3 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/week-03.jpg">
+</details>
+
+<details>
+    <summary>Week #4 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/week-04.jpg">
+</details>
+
+> In this course, I learned how to use git more confidently, solve marge conflicts, use fetch and rebase, and use remote repository correctly. I also understand how to build a collaborative workflow with others.
+
+2. Complete the following levels [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+    - Main: Moving Work Around
+    - Remote: To Origin And Beyond -- Advanced Git Remotes!
+
+My results:
+
+<details>
+    <summary>Result #1</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/Screenshot_1.jpg">
+</details>   
+
+<details>
+    <summary>Result #2</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/Screenshot_2.jpg">
+</details>
+
+> This course also introduced an understanding of the development workflow. The features include Cherry Pick and remote repository tracking.
 
 ---
