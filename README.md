@@ -159,6 +159,6 @@ My results:
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_collaboration/Screenshot_2.jpg">
 </details>
 
-> This course also introduced an understanding of the development workflow. The features include Cherry Pick and remote repository tracking.
+> This course also introduced an understanding of the development workflow. Such as Cherry Pick and remote repository tracking.
 
 ---
