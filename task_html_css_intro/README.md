@@ -17,6 +17,6 @@ My results:
 > Pretty good basic HTML course. I just discovered a new online resource [caniuse.com](https://caniuse.com/). The course does a good job of describing a basic understanding of html and css. Reminded myself of some properties and tags that will never be redundant. The only pity - the course does not contain practical work, but you can make it up your own.
 
 
-1. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
 
-1. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
