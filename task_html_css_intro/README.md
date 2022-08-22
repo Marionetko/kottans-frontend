@@ -9,7 +9,13 @@ My results:
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_html_css_intro/week-01.jpg">
 </details>
 
-> Pretty good basic HTML course. I just discovered a new online resource [caniuse.com](https://caniuse.com/)
+<details>
+    <summary>Week #2 Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_html_css_intro/week-02.jpg">
+</details>
+
+> Pretty good basic HTML course. I just discovered a new online resource [caniuse.com](https://caniuse.com/). The course does a good job of describing a basic understanding of html and css. Reminded myself of some properties and tags that will never be redundant. The only pity - the course does not contain practical work, but you can make it up your own.
+
 
 1. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
 
