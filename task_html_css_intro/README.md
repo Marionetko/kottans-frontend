@@ -29,3 +29,12 @@ My results:
 >I haven't gotten around to this particular course in a long time. The presentation of information is pretty primitive, most of the interesting things are only on a subscription basis, which makes no sense at all. Why pay for the subscription when you can get the same information for free on [freecodecamp](https://www.freecodecamp.org/) and it is much more interesting? Moreover, there is an updated section of web design and they translate their courses into Ukrainian. In general I did not like this course from [Codecademy](https://www.codecademy.com/learn/learn-html). 
 
 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+
+My results:
+
+<details>
+    <summary>CSS Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_html_css_intro/css.jpg">
+</details>
+
+>Still convinced that [freecodecamp](https://www.freecodecamp.org/) is better in this respect
