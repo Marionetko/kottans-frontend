@@ -2,7 +2,7 @@
 
 1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
 
-1. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+1. [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
 1. [Flexbox Froggy](http://flexboxfroggy.com/) - Game
 
