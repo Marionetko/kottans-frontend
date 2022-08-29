@@ -1,0 +1,38 @@
+# Адаптивний Web Design
+
+1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+
+1. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+
+1. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+
+1. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+
+1. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в теку `task_responsive_web_design`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## Responsive Web Design`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Responsive Web Design — #done` (або `Responsive Web Design — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні з цього завдання (якщо такі є).
+
+Коли ви закінчите це завдання, ви можете приступити до наступного.
+
+## Додаткові матеріали
+
+- [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+- [Specificity calculator](https://specificity.keegan.st/)
+- [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
+- [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
