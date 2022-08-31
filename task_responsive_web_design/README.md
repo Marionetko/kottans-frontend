@@ -30,4 +30,11 @@
 
 - [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
+<details>
+    <summary>Playlist</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_responsive_web_design/grid_playlist.jpg">
+</details>
+
+> Such a clear presentation of information on Grid layout I have not yet seen in any course. So I'll just leave this cheat sheet here: [CSS Grid Layout](https://fls.guru/grid.html)
+
 - [Grid Garden](http://cssgridgarden.com/) - Game
