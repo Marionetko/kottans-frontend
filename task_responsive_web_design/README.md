@@ -11,6 +11,8 @@
 
 - [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
+> A good playlist that gives a basic understanding of working with Flexbox and a short task/tutorial. What I liked most about this tutorial is that the author shows how to work with such properties as `flex:` `order:` `flex-basis:` and others while even the paid courses from top companies often give you nothing but `justify-content:` and `align-items:`.
+
 - [Flexbox Froggy](http://flexboxfroggy.com/) - Game
 
 - [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
