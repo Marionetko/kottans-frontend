@@ -20,6 +20,14 @@
 
 - [Flexbox Froggy](http://flexboxfroggy.com/) - Game
 
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy_result.jpg">
+</details>
+
+> Very cool game. Passed in the same breath for 15 minutes and the last level even made me think for a while. The new thing I came across is the `flex-flow:` property, which combines the properties `flex-direction:` and `flex-wrap:`. The game was surprisingly useful :)
+
 - [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
 - [Grid Garden](http://cssgridgarden.com/) - Game
