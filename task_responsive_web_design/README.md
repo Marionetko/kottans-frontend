@@ -11,6 +11,11 @@
 
 - [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
+<details>
+    <summary>Playlist</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_responsive_web_design/flex_playlist.jpg">
+</details>
+
 > A good playlist that gives a basic understanding of working with Flexbox and a short task/tutorial. What I liked most about this tutorial is that the author shows how to work with such properties as `flex:` `order:` `flex-basis:` and others while even the paid courses from top companies often give you nothing but `justify-content:` and `align-items:`.
 
 - [Flexbox Froggy](http://flexboxfroggy.com/) - Game
