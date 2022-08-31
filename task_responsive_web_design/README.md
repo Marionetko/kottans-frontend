@@ -38,3 +38,11 @@
 > Such a clear presentation of information on Grid layout I have not yet seen in any course. So I'll just leave this cheat sheet here: [CSS Grid Layout](https://fls.guru/grid.html)
 
 - [Grid Garden](http://cssgridgarden.com/) - Game
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_responsive_web_design/grid-garden_result.jpg">
+</details>
+
+> Like the Flexbox froggy - Grid garden is fascinating. The whole game passed in the same breath and with great pleasure. The last levels made me think hard. Enjoyed honing my skills in Grid layout in this interesting way.
