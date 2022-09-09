@@ -35,7 +35,7 @@ I also have several certifications:
 - [x] **VCS (hello gitty), GitHub and Collaboration**
 - [x] **Intro to HTML & CSS**
 - [x] **Responsive Web Design**
-- [ ] **HTML & CSS Practice**
+- [x] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
 - [ ] **Building a Tiny JS World (pre-OOP) - practice**
@@ -256,3 +256,11 @@ My results:
 > Like the Flexbox froggy - Grid garden is fascinating. The whole game passed in the same breath and with great pleasure. The last levels made me think hard. Enjoyed honing my skills in Grid layout in this interesting way.
 
 ---
+
+# hooli-style-popup
+
+- [Demo](https://marionetko.github.io/hooli-style-popup/)
+- [Code](https://github.com/Marionetko/hooli-style-popup)
+- [Task](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
+
+> I'm so used to checkbox styling that I had to remember pretty much everything from scratch. Awesome practice, the big challenge is just the design development.
