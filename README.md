@@ -58,14 +58,14 @@ Week 1
 
 <details>
     <summary>Result</summary>
-    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_3.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_basics/Screenshot_3.jpg">
 </details>
 
 Week 2
 
 <details>
     <summary>Result</summary>
-    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_4.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_basics/Screenshot_4.jpg">
 </details>
 
 - passed game [learngitbranching.js.org](https://learngitbranching.js.org/)
@@ -76,14 +76,14 @@ Introduction Sequence
 
 <details>
     <summary>Result</summary>
-    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_1.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_basics/Screenshot_1.jpg">
 </details>
 
 Push & Pull -- remote repositories in Git!
 
 <details>
     <summary>Result</summary>
-    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/00git_basics/Screenshot_2.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_git_basics/Screenshot_2.jpg">
 </details>
 
 ---
