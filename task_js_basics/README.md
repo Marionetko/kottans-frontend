@@ -8,3 +8,13 @@
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_1.jpg">
 </details>
+
+2. FreeCodeCamp exercises
+    - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_2.jpg">
+</details>
+
+> I went through this part quite a long time ago. It was a great pleasure to rerun it all over again.
