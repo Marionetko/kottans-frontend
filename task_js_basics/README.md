@@ -19,9 +19,9 @@
 
 > I went through this part quite a long time ago. It was a great pleasure to rerun it all over again.
 
-    - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) - JS ES6 features. Perform 17 exercises
+   - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) - JS ES6 features. Perform 17 exercises
 
 <details>
     <summary>Result</summary>
-    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_2.jpg">
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_3.jpg">
 </details>
