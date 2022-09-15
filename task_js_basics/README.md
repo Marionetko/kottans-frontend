@@ -10,7 +10,7 @@
 </details>
 
 2. FreeCodeCamp exercises
-    - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+   - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
 
 <details>
     <summary>Result</summary>
