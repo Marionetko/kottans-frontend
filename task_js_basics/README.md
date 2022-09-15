@@ -26,3 +26,18 @@
     <summary>Result</summary>
     <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_3.jpg">
 </details>
+
+>I was already somewhat familiar with ES6 syntax, but this part of the tasks I found something new. I learned about Destructuring Assignment, Rest Parameter, Spread Operator. I learned how and where to apply them and for what purpose. I will keep some cheat sheets for the future.
+
+**Prevent Object Mutation**
+```
+let obj = {
+  name:"FreeCodeCamp",
+  review:"Awesome"
+};
+Object.freeze(obj);
+obj.review = "bad";
+obj.newProp = "Test";
+console.log(obj);
+```
+`Object.freeze();` - to prevent data mutation.
