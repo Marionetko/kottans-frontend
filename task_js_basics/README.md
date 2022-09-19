@@ -234,3 +234,13 @@ const person = {
 
 `.indexOf()` - allows us to quickly and easily check for the presence of an element on an array.
 
+-[Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_5.jpg">
+</details>
+
+>Very interesting and simple tasks to understand the structures of algorithms. Of course, some tasks took some time to think about, but in general all the tasks were solved pretty quickly.
+
+
