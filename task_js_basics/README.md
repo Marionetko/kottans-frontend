@@ -211,4 +211,26 @@ const person = {
 };
 ```
 
+- [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_4.jpg">
+</details>
+
+> In this Basic Data Structures course, I learned more about the differences between arrays and objects and which ones to use in different situations. I also learned how to use useful JS methods like splice() and Object.keys() to access and manipulate data. I'll also leave a little cheat sheet here.
+
+`.push()` - adds elements to the end of an array.
+
+`.pop()` - removes an element from the end of an array.
+
+`.unshift()` - adds elements to the beginning of an array.
+
+`.shift()` - removes an element from the beginning of an array.
+
+`.splice()` - remove or add any number of consecutive elements from anywhere in an array.
+
+`.slice()` - copies or extracts a given number of elements to a new array, leaving the array it is called upon untouched.
+
+`.indexOf()` - allows us to quickly and easily check for the presence of an element on an array.
 
