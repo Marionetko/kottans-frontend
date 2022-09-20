@@ -243,4 +243,13 @@ const person = {
 
 >Very interesting and simple tasks to understand the structures of algorithms. Of course, some tasks took some time to think about, but in general all the tasks were solved pretty quickly.
 
+- [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/)
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_6.jpg">
+</details>
+
+> In this task, I learned the core concepts of Functional Programming including pure functions, how to avoid mutations, and how to write cleaner code with methods like `.map()` and `.filter()`. At first the tasks were quite difficult at first glance. But after parsing and understanding the principles of their work the solution to most of the problems was about 1-2 lines of code.
+
 
