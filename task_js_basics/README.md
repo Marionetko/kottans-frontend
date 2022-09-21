@@ -252,4 +252,12 @@ const person = {
 
 > In this task, I learned the core concepts of Functional Programming including pure functions, how to avoid mutations, and how to write cleaner code with methods like `.map()` and `.filter()`. At first the tasks were quite difficult at first glance. But after parsing and understanding the principles of their work the solution to most of the problems was about 1-2 lines of code.
 
+- [Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_basics/Screenshot_7.jpg">
+</details>
+
+> Great tasks for understanding working with arrays and objects. There are both easy and quite tricky problems that make you work the creative part of the brain. I liked it in general, I can not understand why the course did not give information on regular expressions, as they are built on quite a lot of tasks.
 
