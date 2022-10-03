@@ -23,3 +23,13 @@
 
 `.clientX` or `.clientY` - reads-only property of the MouseEvent interface provides the horizontal and vertical  coordinate within the application's viewport at which the event occurred (as opposed to the coordinate within the page).
 
+
+2. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+   - complete tasks 12..18 (**Sum All Odd Fibonacci Numbers** to **Everything Be True**)
+
+<details>
+    <summary>Result</summary>
+    <img src="https://github.com/Marionetko/kottans-frontend/blob/main/task_js_dom/Screenshot_1.jpg">
+</details>
+
+>For me, these were great assignments to practice writing algorithms. It was both challenging and easy at the same time. And with every assignment I complete, I get closer to my freeCodeCamp certification in JavaScript.
